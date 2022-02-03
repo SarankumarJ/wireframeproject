@@ -14,6 +14,14 @@ Write your design steps here
 ## OUTPUT:
 include your output screenshots 
 
+## Home Page:
+![gitlogo](home.png)
+## AboutUs Page:
+![gitlogo](about.png)
+## Training Page:
+![gitlogo](training.png)
+
+
 
 ## Result:
 Thus a wire frame is designed for a given website.
